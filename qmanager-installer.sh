@@ -18,7 +18,7 @@
 
 # --- Configuration -----------------------------------------------------------
 
-GITHUB_REPO="${QMANAGER_REPO:-dr-dolomite/QManager-RM520N}"
+GITHUB_REPO="${QMANAGER_REPO:-Antares2619/QManager-RM520N}"
 GITHUB_API="https://api.github.com/repos/${GITHUB_REPO}/releases"
 ARCHIVE_PATH="/tmp/qmanager.tar.gz"
 CHECKSUM_PATH="/tmp/qmanager_sha256sum.txt"
